@@ -1,20 +1,20 @@
 <div align="center">
 
-<!-- Animated Emerald Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=047857&height=220&section=header&text=Hi%20there,%20I'm%20Enugala%20Pranitha%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<!-- Modern Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=220&section=header&text=Hi%20there,%20I'm%20Enugala%20Pranitha%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-### 🚀 Full-Stack Developer | Health-Tech Innovator | Problem Solver
-**Building accessible, human-centric software & real-time clinical companion tools**
+### 💻 MERN Stack Developer | AI & Machine Learning Enthusiast | JavaScript Specialist
+**Building scalable web applications, RESTful backends & intelligent AI-driven interfaces**
 
 <br/>
 
-<!-- Connect Badges -->
+<!-- Social & Project Quick Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/enugala-pranitha-4761643b7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://6ab6b4b98bd9da71818ae515--carepilot-live.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20App-CarePilot-047857?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/Live%20App-CarePilot-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
   </a>
   <a href="mailto:enugalapranitha4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -25,51 +25,64 @@
 
 </div>
 
-## 💫 About Me
+## 🚀 About Me
 
-- 🩺 **Featured Project:** Built **CarePilot** — an autonomous dual-condition clinical health companion for Type 2 Diabetes and Hypertension with paired metabolic clearance screening, 24-hour circadian curve simulation, and optical report verification.
-- 💡 **Interests:** Full-Stack Web Development, Medical Decision Support Systems, Accessible UI/UX Design, and Assistive AI.
-- 🔭 **Currently Exploring:** Advanced React patterns, client-side computer vision validation, and explainable health algorithms.
-- 📫 **Contact Me:** Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/enugala-pranitha-4761643b7) or drop an email at **[enugalapranitha4@gmail.com](mailto:enugalapranitha4@gmail.com)**.
+- 💻 **MERN Stack Development:** Skilled in creating responsive, high-performance web applications using **MongoDB, Express.js, React.js, and Node.js**.
+- 🤖 **AI / ML Integration:** Passionate about integrating machine learning models, natural language processing, and client-side computer vision directly into modern web frameworks.
+- ⚡ **JavaScript & Modern Web:** Strong foundation in ES6+ JavaScript, asynchronous workflows, state management, REST APIs, and UI engineering.
+- 🔭 **Current Focus:** Deepening knowledge in Full-Stack architecture, Python for Machine Learning, and building end-to-end intelligent applications.
+- 📫 **Connect:** Reach out on [LinkedIn](https://www.linkedin.com/in/enugala-pranitha-4761643b7) or via email at **[enugalapranitha4@gmail.com](mailto:enugalapranitha4@gmail.com)**.
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+## 🛠️ Tech Stack & Skills
 
-### Frontend & Core
+### 🌐 MERN Stack & Frontend
 <p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-### Tools, Deployment & Version Control
+### 🤖 AI, Machine Learning & Programming
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### ⚙️ Developer Tools & DevOps
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-## 🌟 Featured Project Showcase
+## 🌟 Featured Project
 
-### 🩺 [CarePilot — Autonomous Clinical Health Companion](https://6ab6b4b98bd9da71818ae515--carepilot-live.netlify.app)
-> A patient-first digital companion tailored for elders managing comorbid Type 2 Diabetes and Hypertension.
+### 🧠 [CarePilot — Full-Stack Intelligent Health Companion](https://6ab6b4b98bd9da71818ae515--carepilot-live.netlify.app)
+> An intelligent clinical web platform powered by React, dynamic mathematical curves, algorithmic vitals classification, and computer vision filters.
 
-- **Paired Metabolic Clearance:** Flags early impaired glucose tolerance by analyzing fasting vs. 2-hour postprandial glucose curves.
-- **Dual 3-Point Clinical Action Cards:** Real-time classification of readings, physician consultation recommendations, and medication guidance.
-- **Circadian Glycemic Trajectory Simulator:** Interactive 24-hour predictive curves displaying GLUT4 non-insulin clearance through post-meal walking and dietary substitutes.
-- **Document & Meter Optical Inspection:** Multi-layer optical validation that rejects selfies/faces and extracts clinical report findings with natural voice read-out.
-- 🔗 **Live Application:** [Launch CarePilot Live](https://6ab6b4b98bd9da71818ae515--carepilot-live.netlify.app)  
+- **Dynamic Trajectory Simulation:** Models 24-hour predictive metabolic response curves using custom math routines.
+- **Rule-Based Decision Engine:** Evaluates complex multi-condition vitals (Type 2 Diabetes & Hypertension) to produce real-time clinical action items.
+- **Optical Inspection & Image Processing:** Computer vision algorithms with pixel-level skin chroma detection to identify paper documents and reject invalid photo inputs.
+- **Voice Synthesis:** Interactive, accessibility-driven speech synthesis for humanized patient feedback.
+- 🔗 **Live Demo:** [Launch CarePilot Live](https://6ab6b4b98bd9da71818ae515--carepilot-live.netlify.app)
 - 📂 **Source Code:** [enugalapranitha4-hub/Care_Pilot](https://github.com/enugalapranitha4-hub/Care_Pilot)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
@@ -85,6 +98,6 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=047857&height=90&section=footer" width="100%"/>
-  <p><i>Crafted with precision & purpose by Enugala Pranitha</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=80&section=footer" width="100%"/>
+  <p><i>Building smart web solutions with clean code.</i></p>
 </div>
