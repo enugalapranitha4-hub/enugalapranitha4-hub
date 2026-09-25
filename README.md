@@ -35,6 +35,15 @@
 
 ---
 
+## 🏆 Hackathons & Achievements
+
+| Event / Hackathon | Organized By / Venue | Scope & Experience |
+| :--- | :--- | :--- |
+| ⚡ **HACK INDIA SPARK-11** | HackIndia @ CBIT, Hyderabad | Shortlisted and participated in an intensive **36-hour National Level Hackathon**, engineering real-world software solutions under strict deadlines. |
+| 🚀 **AVINYYA 2.0** | Anurag University | Selected and competed in a competitive **24-hour National Level Hackathon**, designing rapid prototypes and end-to-end project implementations. |
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 ### 🌐 MERN Stack & Frontend
