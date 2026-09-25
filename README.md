@@ -1,20 +1,20 @@
 <div align="center">
 
-<!-- Modern Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=220&section=header&text=Hi%20there,%20I'm%20Enugala%20Pranitha%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<!-- Modern Waving Electric Blue Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=220&section=header&text=Hi%20there,%20I'm%20Enugala%20Pranitha%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 ### 💻 MERN Stack Developer | AI & Machine Learning Enthusiast | JavaScript Specialist
 **Building scalable web applications, RESTful backends & intelligent AI-driven interfaces**
 
 <br/>
 
-<!-- Social & Project Quick Badges -->
+<!-- Social & Quick Action Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/enugala-pranitha-4761643b7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://6ab6b4b98bd9da71818ae515--carepilot-live.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20App-CarePilot-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/Live%20App-CarePilot-0070f3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
   </a>
   <a href="mailto:enugalapranitha4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -28,7 +28,7 @@
 ## 🚀 About Me
 
 - 💻 **MERN Stack Development:** Skilled in creating responsive, high-performance web applications using **MongoDB, Express.js, React.js, and Node.js**.
-- 🤖 **AI / ML Integration:** Passionate about integrating machine learning models, natural language processing, and client-side computer vision directly into modern web frameworks.
+- 🤖 **AI / ML Integration:** Focused on integrating machine learning models, natural language processing, and client-side computer vision directly into modern web frameworks.
 - ⚡ **JavaScript & Modern Web:** Strong foundation in ES6+ JavaScript, asynchronous workflows, state management, REST APIs, and UI engineering.
 - 🔭 **Current Focus:** Deepening knowledge in Full-Stack architecture, Python for Machine Learning, and building end-to-end intelligent applications.
 - 📫 **Connect:** Reach out on [LinkedIn](https://www.linkedin.com/in/enugala-pranitha-4761643b7) or via email at **[enugalapranitha4@gmail.com](mailto:enugalapranitha4@gmail.com)**.
@@ -98,6 +98,6 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=80&section=footer" width="100%"/>
   <p><i>Building smart web solutions with clean code.</i></p>
 </div>
